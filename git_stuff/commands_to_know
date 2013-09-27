@@ -19,4 +19,4 @@ Push local changes to global repository:
 Pull global repository to local repository:
   git pull
 
-b
+a
