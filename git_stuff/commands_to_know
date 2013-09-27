@@ -1,0 +1,21 @@
+Obtaining a repo:
+  git clone git@github.com:<username>/<projectname>.git
+
+Removing a file from local repository:
+  git rm <filename>
+
+Adding a file to the local repository:
+  git add <filename>
+
+Get status of local repository vs. global repository:
+  git status
+
+Commit to local repository:
+  git commit -m "<some message here>"
+
+Push local changes to global repository:
+  git push
+
+Pull global repository to local repository:
+  git pull
+

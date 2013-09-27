@@ -1,0 +1,5 @@
+Info at https://help.github.com/articles/generating-ssh-keys
+
+for step 3:
+run: "cat ~/.ssh/id_rsa.pub"
+and copy paste the output
